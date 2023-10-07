@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #585c5d;
+  background-image: url(mrs.jpg);
+}
+
+#Projects {
+  background-color: #585c5d;
+}
+
+footer {
+  background-color: #585c5d;
+}
+
+.jumbotron {
+  background-color: #585c5d;
+}
+
+section {
+  padding-top: 5rem;
+}
